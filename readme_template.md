@@ -1,10 +1,10 @@
 # Workshop title
 
 ## Workshop overview
-- include summary of workshop, intended audience, and learning goals
+- include summary of workshop, intended audience, and learning goals.
   
 ## DiScho at PUL
-- include information for signing up for workshops and consultations
+- include information for signing up for workshops and consultations.
 
 ## Technical Specifications
 - include a list of all the software and digital tools required to run the workshop. For example:
@@ -12,7 +12,7 @@
   - Google colab python environment
 
 ## Contributing
-- instructions for contributing to the workshop repository (can copy and paste from our [contribut](contribute.md) instructions. 
+- instructions for contributing to the workshop repository (can copy and paste from our [contribute](contribute.md) instructions). 
 
 ## Credits
 - Includes names of any people who helped to create, update, or maintain the workshop, with links to github profiles if available.
