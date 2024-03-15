@@ -12,6 +12,7 @@
   - Google colab python environment
 
 ## Contributing
+- instructions for contributing to the workshop repository (can copy and paste from our [contribut](contribute.md) instructions. 
 
 ## Credits
 - Includes names of any people who helped to create, update, or maintain the workshop, with links to github profiles if available.
