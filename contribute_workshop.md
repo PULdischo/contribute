@@ -35,9 +35,9 @@ Instructions:
 ## Updating an existing workshop
 Workshops should be updated every semester, ideally around the time that the workshop is being run. Workshops that are not being run that semester, or workshops that are archived, should be checked once a year to make sure the technology still works. 
 
-To update an existing workshop, you may do so directly on github (preferable for beginners) or by downloading the workshop to your own computer. 
+To update an existing workshop, you may do so directly on Github (preferable for beginners) or by downloading the workshop to your own computer. 
 
-On github, follow these steps to update a workshop:
+On Github, follow these steps to update a workshop:
 - at the top of the page that you want to update, select "edit file" icon (looks like a pencil). If you want to add a new file, navigate to the repo's main page (the landing page) and select "add file" from the menu at the top (next to the green "code" button).
 - this option will open a new window where you can add or edit content.
 - update the content then press "commit changes". Make sure you include a commit a simple message (no need to write an extended description in the extra box).
