@@ -2,7 +2,7 @@
 Below you will find information and instructions about contributing a workshop to PULdischo. 
 
 ## Format
-The format for your workshop repository will vary based on needs, so the type of files can be flexible. Some workshops may use
+Requirements for file types are flexible, as the format for your workshop repository will vary based on your workshop's needs. Some workshops may use
 slideshow files, while another may use a codebase from a static site generator. Regardless of the format, include a full copy of
 all the files necessary to run the workshop. 
 
@@ -11,21 +11,21 @@ In addition to your workshop files, include a `readme.md` file that contains the
 - information about DiScho unit and how to get involved (workshops and consultations)
 - technical specifications
 - instructions for contributing
-- credits and licensing information.
+- credits and licensing information
 
 A [template file](/readme_template.md) and [further instructions](/readme.md/) for the `readme.md` are available on this repository. 
 
-When submitting your workshop to github, make sure you follow our naming conventions:
-- repository name should be a shortened version of the workshop title.
+When submitting your workshop to Github, make sure you follow our naming conventions:
+- repository name should be a shortened version of the workshop title
 - use all lowercase letters
 - no white (or blank) spaces
-- use hypens (rather than underscores) to indicate white spaces.
+- use hypens (rather than underscores) to indicate white spaces
 - I.e. "Introduction to Python for Working with Text" should be titled "python-for-text"
 
 Additionally, when making short links, include the repo name as the short link extension, when possible. 
 
-## Contributing a new workshop
-Only DiScho staff may contribute workshops, except by request.
+## Contributing a new workshop (for PULdischo members only)
+Only DiScho staff may contribute workshops, except by request. See instructions for [joining our organization](https://github.com/PULdischo/contribute?tab=readme-ov-file#join-our-organization-on-github). 
 
 Instructions:
 - create the workshop under your personal account (preferable) or dischoPUL. 
