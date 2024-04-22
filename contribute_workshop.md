@@ -6,7 +6,7 @@ Requirements for file types are flexible, as the format for your workshop reposi
 slideshow files, while another may use a codebase from a static site generator. Regardless of the format, include a full copy of
 all the files necessary to run the workshop. 
 
-In addition to your workshop files, include a `readme.md` file (see a [template here](readme_template.md) that contains the following information:
+In addition to your workshop files, include a `readme.md` file (see a [template here](readme_template.md)) that contains the following information:
 - title and overview of workshop
 - information about DiScho unit and how to get involved (i.e. workshops and consultations)
 - technical specifications
@@ -23,9 +23,11 @@ For example, the workshop "Introduction to Python for Working with Text" should 
 Additionally, when making short links for the workshop (like [bit.ly](https://bit.ly), include the repo name as the short link extension, when possible. 
 
 ## Contributing a new workshop (for PULdischo members only)
-Only DiScho staff may contribute workshops, except by request. See instructions for [joining our organization](https://github.com/PULdischo/contribute?tab=readme-ov-file#join-our-organization-on-github). 
+To contribute a workshop, you need to first join the PULdischo organization and then add your workshop to the organization. Please follow the instructions below.
 
-Instructions:
+Instructions for [joining the PULdischo organization](https://github.com/PULdischo/contribute?tab=readme-ov-file#join-our-organization-on-github). 
+
+Instructions for adding your workshop:
 - create the workshop under your personal account (preferable) or under dischoPUL
 - from your personal account, fork the repository to PUL_discho (the owner username for PULdischo)
 - in the "owner" dropdown, select "PUL_discho"
@@ -42,6 +44,7 @@ To work on Github interface, follow these steps:
 - to save the changes, press "commit changes"
 - include sure you include a commit a simple message of your changes
 
+## Advanced git users
 Making changes to a downladed copy of the workshop requires some knowledge of git (the underlying software for github), such as how to initialize a repository, stage, commit, and push changes from your local machine to a remote repository. To learn more about this process, see the [GitHub Docs](https://docs.github.com/en/get-started/using-git)
 
 If you would like to update a workshop using git, follow these steps:
